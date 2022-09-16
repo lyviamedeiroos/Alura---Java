@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Alura - Java.iml" filepath="$PROJECT_DIR$/.idea/Alura - Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteBank - composto/ByteBank - composto.iml" filepath="$PROJECT_DIR$/ByteBank - composto/ByteBank - composto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteBank - encapsulado/ByteBank - encapsulado.iml" filepath="$PROJECT_DIR$/ByteBank - encapsulado/ByteBank - encapsulado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoAluraBasico/CursoAluraBasico.iml" filepath="$PROJECT_DIR$/CursoAluraBasico/CursoAluraBasico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoAluraOO-ByteBank/CursoAluraOO-ByteBank.iml" filepath="$PROJECT_DIR$/CursoAluraOO-ByteBank/CursoAluraOO-ByteBank.iml" />
+    </modules>
+  </component>
+</project>
